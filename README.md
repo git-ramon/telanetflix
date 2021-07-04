@@ -6,9 +6,11 @@ Desenvolvido a partir dos conhecimentos adquirido no Bootcamp da Digital Inovati
 
 Tecnologia Usada:
 
-*html
-*css
-*javascript
-*plugin jquery
+<ul>
+  <li>HTML/li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>Plugin Jquery</li>
+</ul>
 
 imagens e informações retirada no site da TMDB, link: https://www.themoviedb.org/?language=pt-BR
